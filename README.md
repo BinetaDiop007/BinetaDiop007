@@ -48,8 +48,13 @@ Here are some ideas to get you started:
       <br>PySpark
     </td> 
       <td align="center" width="96">
-        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/ApacheSpark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="65" height="65" alt="dart" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="65" height="65" alt="dart" />
       <br>TensorFlow
+    </td> 
+        </td> 
+      <td align="center" width="96">
+        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/mlflow.png" width="65" height="65" alt="dart" />
+      <br>MlFlow
     </td> 
     
   </tr>
