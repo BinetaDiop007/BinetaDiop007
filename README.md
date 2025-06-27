@@ -160,8 +160,10 @@ Here are some ideas to get you started:
 </table>
 
 
+### Watch my contribution graph get eaten by the snake 🐍
+
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![BinetaDiop007 snake gif](https://raw.githubusercontent.com/BinetaDiop007/BinetaDiop007/output/github-contribution-grid-snake.svg)
+![BinetaDiop007 snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
