@@ -16,17 +16,12 @@ Here are some ideas to get you started:
 
 # <a href="https://BenitaDiop.com/">Hi there, I'm Bineta Diop <a/> 👋
 
-
+## 🚀 About Me
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinetaDiop007&layout=compact)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=BinetaDiop007&theme=default)
 
-
-
-## 🚀 About Me
-
-
-<!-- [![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinetaDiop007&show_icons=true)](https://github.com/BinetaDiop007/github-readme-stats)
--->
 
 ## Github Profile Thropy 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BinetaDiop007)](https://github.com/BinetaDiop007/github-profile-trophy)
