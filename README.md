@@ -161,3 +161,7 @@ Here are some ideas to get you started:
 
 
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![BinetaDiop007 snake gif](https://raw.githubusercontent.com/BinetaDiop007/BinetaDiop007/output/github-contribution-grid-snake.svg)
+
+
