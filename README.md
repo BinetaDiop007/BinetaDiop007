@@ -55,7 +55,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Storage and Infrasturture 
+## DevOps
+
+
 <table>
   <tr>
     <td align="center" width="96">
