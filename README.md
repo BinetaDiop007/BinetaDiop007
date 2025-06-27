@@ -47,7 +47,10 @@ Here are some ideas to get you started:
         <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/ApacheSpark.svg" width="65" height="65" alt="dart" />
       <br>PySpark
     </td> 
-
+      <td align="center" width="96">
+        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/ApacheSpark.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="65" height="65" alt="dart" />
+      <br>TensorFlow
+    </td> 
     
   </tr>
 </table>
@@ -88,4 +91,51 @@ Here are some ideas to get you started:
 
 ## Databases
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
+      <br>SQL Server
+    </td>
+    <tr>
+    </tr>
+</table>
+
+
 ## Analytics and Business Intelligence
+
+
+<table> 
+  <tr> 
+    
+  <td align="center" width="96"> 
+       <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
+      <br>SQL Server
+  </td>
+
+
+  
+  </tr>
+</table>
