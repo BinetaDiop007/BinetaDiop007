@@ -138,8 +138,16 @@ Here are some ideas to get you started:
   <tr> 
     
   <td align="center" width="96"> 
-       <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
-      <br>SQL Server
+       <img src="https://spark.apache.org/images/tableau-logo-tableau-software.png" alt="icon" width="65" height="65" />
+      <br>Tableau
+  </td>
+  <td align="center" width="96"> 
+       <img src="https://spark.apache.org/images/looker_logo.png" alt="icon" width="65" height="65" />
+      <br>Looker
+  </td>
+    <td align="center" width="96"> 
+       <img src="https://spark.apache.org/images/PowerBI-Logo-Square-Insight-Platforms.png" alt="icon" width="65" height="65" />
+      <br>PowerBI
   </td>
 
 
