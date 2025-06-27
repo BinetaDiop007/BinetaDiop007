@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # <a href="https://BenitaDiop.com/">Hi there, I'm Bineta Diop <a/> 👋
 
-
+## 🚀 About Me
 [![Benita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinetaDiop007&show_icons=true)](https://github.com/BinetaDiop007/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BinetaDiop007)](https://github.com/BinetaDiop007/github-profile-trophy)
 
-## 🚀 About Me
 
 
 
@@ -154,3 +154,9 @@ Here are some ideas to get you started:
   
   </tr>
 </table>
+
+
+
+
+
+![BinetaDiop007 snake gif](https://raw.githubusercontent.com/BinetaDiop007/BinetaDiop007/output/github-contribution-grid-snake.svg)
