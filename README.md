@@ -40,12 +40,11 @@ Here are some ideas to get you started:
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="dart" />
+        <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="dart" />
       <br>R
     </td> 
     <td align="center" width="96">
-        <img src="![image](https://github.com/user-attachments/assets/c07d82dc-9916-4698-aadc-2cd14d8135fe)
-" width="48" height="48" alt="dart" />
+        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/ApacheSpark.svg" width="65" height="65" alt="dart" />
       <br>PySpark
     </td> 
 
