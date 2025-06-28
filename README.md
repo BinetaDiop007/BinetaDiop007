@@ -161,7 +161,7 @@ Here are some ideas to get you started:
 </table>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=BinetaDiop007&color=blue)
+
 
 
 
@@ -171,4 +171,4 @@ Here are some ideas to get you started:
 <!-- platane/snk works, it just puts it on a new branch -->
 ![BinetaDiop007 snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=BinetaDiop007&color=blue)
