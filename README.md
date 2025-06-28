@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinetaDiop007&layout=compact)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BinetaDiop007&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=BinetaDiop007&theme=graywhite)
 
 
 ## Github Profile Thropy 
