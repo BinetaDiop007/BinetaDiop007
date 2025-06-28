@@ -161,6 +161,10 @@ Here are some ideas to get you started:
 </table>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=BinetaDiop007&color=blue)
+
+
+
 ### Watch my contribution graph get eaten by the snake 🐍
 
 
