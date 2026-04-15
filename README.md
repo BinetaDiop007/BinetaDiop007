@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 # <a href="https://BenitaDiop.com/">Hi there, I'm Bineta Diop <a/> 👋
 
 ## 🚀 About Me
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinetaDiop007&layout=compact)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BinetaDiop007&theme=graywhite)
-
-
-## Github Profile Thropy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BinetaDiop007)](https://github.com/BinetaDiop007/github-profile-trophy)
-
-
 
 
 ## Data Science and Machine Learning 
@@ -161,14 +151,3 @@ Here are some ideas to get you started:
 </table>
 
 
-
-
-
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![BinetaDiop007 snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=BinetaDiop007&color=blue)
