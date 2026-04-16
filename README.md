@@ -1,12 +1,12 @@
 
 
-# 🚀 Benita Diop
+# Benita Diop
 
 ### Senior Analytics Engineer | Data Engineering | ML Infrastructure | Data Science
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a data professional with experience building **cloud-native data platforms, scalable ETL/ELT pipelines, machine learning infrastructure, and analytics solutions** across enterprise environments.
 
