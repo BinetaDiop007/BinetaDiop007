@@ -1,153 +1,68 @@
 
-<!--
-**BinetaDiop007/BinetaDiop007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🚀 Benita Diop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Senior Analytics Engineer | Data Engineering | ML Infrastructure | Data Science
 
-# <a href="https://BenitaDiop.com/">Hi there, I'm Bineta Diop <a/> 👋
+---
 
 ## 🚀 About Me
 
+I am a data professional with experience building **cloud-native data platforms, scalable ETL/ELT pipelines, machine learning infrastructure, and analytics solutions** across enterprise environments.
 
-## Data Science and Machine Learning 
+I specialize in:
+- **Data Engineering**
+- **Analytics Engineering**
+- **MLOps / ML Infrastructure**
+- **Cloud Data Platforms**
+- **Risk & Lending Analytics**
+- **Business Intelligence and Dashboarding**
 
+---
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="65" height="65" alt="dart" />
-      <br>R
-    </td> 
-    <td align="center" width="96">
-        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/ApacheSpark.svg" width="65" height="65" alt="dart" />
-      <br>PySpark
-    </td> 
-      <td align="center" width="96">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" width="65" height="65" alt="dart" />
-      <br>TensorFlow
-    </td> 
-        </td> 
-      <td align="center" width="96">
-        <img src="https://github.com/BinetaDiop007/BinetaDiop007/blob/main/animated/mlflow.png" width="65" height="65" alt="dart" />
-      <br>MlFlow
-    </td> 
-    
-  </tr>
-</table>
+## Data Science and Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-1E4C9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
 
-## DevOps
-
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="65" height="65" />
-      <br>Jenkins
-    </td>
-    <tr>
-    </tr>
-</table>
-
+## DevOps / Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,gitlab" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 ## Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/HDFS-FFCC00?style=for-the-badge&logo=apache&logoColor=black" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
-      <br>SQLite
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
-      <br>SQL Server
-    </td>
-    <tr>
-    </tr>
-</table>
+## Analytics and BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-222222?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-0F62FE?style=for-the-badge&logoColor=white" />
+</p>
 
 
-## Analytics and Business Intelligence
 
+---
 
-<table> 
-  <tr> 
-    
-  <td align="center" width="96"> 
-       <img src="https://spark.apache.org/images/tableau-logo-tableau-software.png" alt="icon" width="65" height="65" />
-      <br>Tableau
-  </td>
-  <td align="center" width="96"> 
-       <img src="https://spark.apache.org/images/looker_logo.png" alt="icon" width="65" height="65" />
-      <br>Looker
-  </td>
-    <td align="center" width="96"> 
-       <img src="https://spark.apache.org/images/PowerBI-Logo-Square-Insight-Platforms.png" alt="icon" width="65" height="65" />
-      <br>PowerBI
-  </td>
+## 🔗 Connect
 
-
-  
-  </tr>
-</table>
-
-
+<p align="left">
+  <a href="mailto:hi_bd@myyahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hibdiop">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
