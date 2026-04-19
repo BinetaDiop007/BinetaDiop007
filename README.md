@@ -2,8 +2,7 @@
 
 # Benita Diop
 
-### Senior Data Professional
----
+
 
 ## About Me
 
