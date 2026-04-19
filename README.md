@@ -2,8 +2,7 @@
 
 # Benita Diop
 
-### Senior Analytics Engineer | Data Engineering | ML Infrastructure | Data Science
-
+### Senior Data Professional
 ---
 
 ## About Me
