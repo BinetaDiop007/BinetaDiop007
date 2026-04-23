@@ -3,18 +3,8 @@
 # Benita Diop
 
 
-
-## About Me
-
 I am a data professional with experience building **cloud-native data platforms, scalable ETL/ELT pipelines, machine learning infrastructure, and analytics solutions** across enterprise environments.
 
-I specialize in:
-- **Data Engineering**
-- **Analytics Engineering**
-- **MLOps / ML Infrastructure**
-- **Cloud Data Platforms**
-- **Risk & Lending Analytics**
-- **Business Intelligence and Dashboarding**
 
 ---
 
